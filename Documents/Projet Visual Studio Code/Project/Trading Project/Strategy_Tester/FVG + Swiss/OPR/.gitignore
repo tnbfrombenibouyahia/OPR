@@ -1,0 +1,21 @@
+# Fichiers système
+.DS_Store
+.Trash/
+.vscode/
+__pycache__/
+*.pyc
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Données
+*.csv
+
+# Environnements
+.venv/
+.env/
+
+# OS/macOS/VSCode
+*.log
+*.rdp
+*.lnk
